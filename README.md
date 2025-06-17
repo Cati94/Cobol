@@ -1,4 +1,4 @@
-# COBOL: O Dinossauro Simpático
+# 🦖 COBOL: O Dinossauro Simpático
 
 Um olhar lúdico sobre a linguagem **COBOL**, muitas vezes chamada de “dinossauro” da programação, mas ainda viva em muitos sistemas.
 
